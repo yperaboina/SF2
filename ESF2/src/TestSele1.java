@@ -9,7 +9,7 @@ public class TestSele1 {
 		 System.out.println("updated file to poll automatically");
 		System.out.println("changed job name to GitCommitsTest");
 		System.out.println("added another comment line by vivek");
-		System.out.println("Hello world");
+		
 		System.out.println("Hello Venkat");
 		 
 	}
